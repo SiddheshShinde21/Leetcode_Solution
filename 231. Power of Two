@@ -1,3 +1,4 @@
+Question Link:- https://leetcode.com/problems/power-of-two/description/
 //231. Power of Two  
 class Solution{
   boolean isPowerOfTwo(int n){
